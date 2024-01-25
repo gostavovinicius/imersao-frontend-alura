@@ -6,6 +6,7 @@ body {
     position: fixed;
     top: 0px;
     left: 0px;
+    bottom: 0px;
     padding: 12px;
     width: 300px;
 }
